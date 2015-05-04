@@ -1,0 +1,2 @@
+This project is an extension to Chronos Simulator. It has been editted for P-FRP WCET analysis by Zeinab Kazemi. The changes are in 
+ilp.c file in est directory.
